@@ -75,3 +75,5 @@ const califacionesEstudiante = [10, 9, 7];
 const promedioEstudiantesuma = califacionesEstudiante[0] + califacionesEstudiante[1] + califacionesEstudiante[2];
 const promedioEstudiantedivision = promedioEstudiantesuma/3;
 console.log("Mi promedio es: ", promedioEstudiantedivision)
+
+console.log(`Hola soy ${nombreEstudiante}`) 
